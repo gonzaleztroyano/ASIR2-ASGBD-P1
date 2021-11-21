@@ -1,0 +1,27 @@
+
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A69389435','Gil Vicente, Jorge',+34679037046,'jorge@a69389435.com','farmacia');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A61278230','Campos Santana, Iván',+34642995197,'iván@a61278230.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A03001815','Serrano Lorenzo, Adrian',+34621512204,'adrian@a03001815.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A18203760','Santana Domínguez, Aurora',+34615131955,'aurora@a18203760.com','farmacia');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14531729','Muñoz Garrido, Ángela',+34665506732,'ángela@a14531729.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14871723','Rojas Prieto, Martina',+34650314150,'martina@a14871723.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A17671723','Garrido Flores, Rodrigo',+34623845848,'rodrigo@a17671723.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764789','Martín Navarro, Cristina',+34660638260,'cristina@a14764789.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764790','Romero Sáez, Alfonso',+34604639218,'alfonso@a14764790.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764791','Durán Morales, Pablo',+34677187260,'pablo@a14764791.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764792','Martín Cabrera, Jorge',+34605930823,'jorge@a14764792.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764793','Gil Hernández, Carla',+34669855045,'carla@a14764793.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764794','Gil Fernández, Ana Isabel',+34630378600,'ana isabel@a14764794.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764795','Márquez Guerrero, Santiago',+34643374516,'santiago@a14764795.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764796','Santana Muñoz, Jaime',+34654604457,'jaime@a14764796.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764797','Fuentes Román, Mariano',+34676807341,'mariano@a14764797.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764798','Durán Nieto, Antonio',+34645785684,'antonio@a14764798.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764799','Gutiérrez Sánchez, Miriam',+34658200500,'miriam@a14764799.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764800','Blanco Díez, María Elena',+34669574319,'maría elen@a14764800.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764801','Mora Cortés, Juan Jose',+34655133323,'juan jose@a14764801.com','admon');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764802','Rodríguez Sanz, Sandra',+34668082622,'sandra@a14764802.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764803','Bravo Sanz, Francisco José',+34608300967,'francisco @a14764803.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764804','Pastor Fuentes, Daniela',+34601823619,'daniela@a14764804.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764805','Reyes Montero, Xavier',+34612250521,'xavier@a14764805.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764806','Román Delgado, Ana Isabel',+34675321586,'ana isabel@a14764806.com','retail');
+INSERT INTO colaborador(nif,poc_nombre,poc_tel,poc_email,area_operaciones) VALUES ('A14764807','González Medina, Tomas',+34673361399,'tomas@a14764807.com','farmacia');

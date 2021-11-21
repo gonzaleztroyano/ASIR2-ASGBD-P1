@@ -1,0 +1,10 @@
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (1,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (2,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (3,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (4,'Urgente.Guerra');
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (5,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (6,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (7,'NecesarioSoborno');
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (8,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (9,NULL);
+INSERT INTO casicruzroja.envio(idenvio,notas) VALUES (10,NULL);
