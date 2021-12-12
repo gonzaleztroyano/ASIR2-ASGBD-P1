@@ -1,0 +1,10 @@
+DELIMITER $$
+DROP EVENT IF EXISTS conta_mensual_sede$$
+CREATE EVENT conta_mensual_sede ON SCHEDULE
+EVERY 1 MONTH
+STARTS "2021-12-15 05:00:00"
+ENDS "2025-12-15 05:00:00"
+DO
+BEGIN
+	CALL proc_conta_mensual_sede;
+END $$
